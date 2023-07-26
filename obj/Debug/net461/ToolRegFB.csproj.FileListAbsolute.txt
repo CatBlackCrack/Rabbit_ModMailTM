@@ -1,0 +1,234 @@
+C:\Users\Admin\Desktop\Rabbit\bin\Debug\net461\ToolRegFB.exe.config
+C:\Users\Admin\Desktop\Rabbit\bin\Debug\net461\ToolRegFB.exe
+C:\Users\Admin\Desktop\Rabbit\bin\Debug\net461\ToolRegFB.pdb
+C:\Users\Admin\Desktop\Rabbit\bin\Debug\net461\WebDriver.xml
+C:\Users\Admin\Desktop\Rabbit\bin\Debug\net461\WebDriver.Support.xml
+C:\Users\Admin\Desktop\Rabbit\bin\Debug\net461\RestSharp.xml
+C:\Users\Admin\Desktop\Rabbit\bin\Debug\net461\zxing.xml
+C:\Users\Admin\Desktop\Rabbit\bin\Debug\net461\DeviceId.xml
+C:\Users\Admin\Desktop\Rabbit\obj\Debug\net461\ns0.frmNapxu.resources
+C:\Users\Admin\Desktop\Rabbit\obj\Debug\net461\ns0.frmUpdateContent.resources
+C:\Users\Admin\Desktop\Rabbit\obj\Debug\net461\ns2.frmContainer.resources
+C:\Users\Admin\Desktop\Rabbit\obj\Debug\net461\ns3.frmAutoFunction.resources
+C:\Users\Admin\Desktop\Rabbit\obj\Debug\net461\ns3.frmLoginUser.resources
+C:\Users\Admin\Desktop\Rabbit\obj\Debug\net461\ns4.frmVeriPhoneNoveri.resources
+C:\Users\Admin\Desktop\Rabbit\obj\Debug\net461\ns5.Class74.resources
+C:\Users\Admin\Desktop\Rabbit\obj\Debug\net461\ns5.frmAddMailReg.resources
+C:\Users\Admin\Desktop\Rabbit\obj\Debug\net461\ns5.frmLoading.resources
+C:\Users\Admin\Desktop\Rabbit\obj\Debug\net461\ns6.frmDongBoDanhba.resources
+C:\Users\Admin\Desktop\Rabbit\obj\Debug\net461\ns6.frmVeriMailNoveri.resources
+C:\Users\Admin\Desktop\Rabbit\obj\Debug\net461\ns7.frmShopee.resources
+C:\Users\Admin\Desktop\Rabbit\obj\Debug\net461\ToolRegFB.frmMain.resources
+C:\Users\Admin\Desktop\Rabbit\obj\Debug\net461\ToolRegFB.frmViewLD.resources
+C:\Users\Admin\Desktop\Rabbit\obj\Debug\net461\ToolRegFB.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Rabbit\obj\Debug\net461\ToolRegFB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Rabbit\obj\Debug\net461\ToolRegFB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Rabbit\obj\Debug\net461\ToolRegFB.csproj.CopyComplete
+C:\Users\Admin\Desktop\Rabbit\obj\Debug\net461\ToolRegFB.exe
+C:\Users\Admin\Desktop\Rabbit\obj\Debug\net461\ToolRegFB.pdb
+C:\Users\Admin\Desktop\Rabbit\obj\Debug\net461\ToolRegFB.csproj.AssemblyReference.cache
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\bin\Debug\net461\ToolRegFB.exe.config
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\bin\Debug\net461\ToolRegFB.exe
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\bin\Debug\net461\ToolRegFB.pdb
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\bin\Debug\net461\DeviceId.xml
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\bin\Debug\net461\RestSharp.xml
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\bin\Debug\net461\WebDriver.xml
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\bin\Debug\net461\WebDriver.Support.xml
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\bin\Debug\net461\zxing.xml
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\obj\Debug\net461\ToolRegFB.csproj.AssemblyReference.cache
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\obj\Debug\net461\ns0.frmNapxu.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\obj\Debug\net461\ns0.frmUpdateContent.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\obj\Debug\net461\ns2.frmContainer.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\obj\Debug\net461\ns3.frmAutoFunction.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\obj\Debug\net461\ns3.frmLoginUser.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\obj\Debug\net461\ns4.frmVeriPhoneNoveri.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\obj\Debug\net461\ns5.Class74.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\obj\Debug\net461\ns5.frmAddMailReg.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\obj\Debug\net461\ns5.frmLoading.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\obj\Debug\net461\ns6.frmDongBoDanhba.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\obj\Debug\net461\ns6.frmVeriMailNoveri.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\obj\Debug\net461\ns7.frmShopee.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\obj\Debug\net461\ToolRegFB.banggia.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\obj\Debug\net461\ToolRegFB.banking.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\obj\Debug\net461\ToolRegFB.CheckKey.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\obj\Debug\net461\ToolRegFB.frmMain.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\obj\Debug\net461\ToolRegFB.frmViewLD.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\obj\Debug\net461\ToolRegFB.csproj.GenerateResource.cache
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\obj\Debug\net461\ToolRegFB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\obj\Debug\net461\ToolRegFB.csproj.CoreCompileInputs.cache
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\obj\Debug\net461\ToolRegFB.exe
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\obj\Debug\net461\ToolRegFB.pdb
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Rabbit\Rabbit\obj\Debug\net461\Properties.Resources.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\bin\Debug\net461\ToolRegFB.exe.config
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\bin\Debug\net461\ToolRegFB.exe
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\bin\Debug\net461\ToolRegFB.pdb
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\bin\Debug\net461\DeviceId.xml
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\bin\Debug\net461\RestSharp.xml
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\bin\Debug\net461\WebDriver.xml
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\bin\Debug\net461\WebDriver.Support.xml
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\bin\Debug\net461\zxing.xml
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\obj\Debug\net461\ToolRegFB.csproj.AssemblyReference.cache
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\obj\Debug\net461\ns0.frmNapxu.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\obj\Debug\net461\ns0.frmUpdateContent.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\obj\Debug\net461\ns2.frmContainer.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\obj\Debug\net461\ns3.frmAutoFunction.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\obj\Debug\net461\ns3.frmLoginUser.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\obj\Debug\net461\ns4.frmVeriPhoneNoveri.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\obj\Debug\net461\ns5.Class74.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\obj\Debug\net461\ns5.frmAddMailReg.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\obj\Debug\net461\ns5.frmLoading.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\obj\Debug\net461\ns6.frmDongBoDanhba.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\obj\Debug\net461\ns6.frmVeriMailNoveri.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\obj\Debug\net461\ns7.frmShopee.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\obj\Debug\net461\Properties.Resources.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\obj\Debug\net461\ToolRegFB.banggia.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\obj\Debug\net461\ToolRegFB.banking.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\obj\Debug\net461\ToolRegFB.CheckKey.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\obj\Debug\net461\ToolRegFB.frmMain.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\obj\Debug\net461\ToolRegFB.frmViewLD.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\obj\Debug\net461\ToolRegFB.csproj.GenerateResource.cache
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\obj\Debug\net461\ToolRegFB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\obj\Debug\net461\ToolRegFB.csproj.CoreCompileInputs.cache
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\obj\Debug\net461\ToolRegFB.exe
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit - Copy\obj\Debug\net461\ToolRegFB.pdb
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\bin\Debug\net461\ToolRegFB.exe.config
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\bin\Debug\net461\ToolRegFB.exe
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\bin\Debug\net461\ToolRegFB.pdb
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\obj\Debug\net461\ns0.frmNapxu.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\obj\Debug\net461\ns0.frmUpdateContent.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\obj\Debug\net461\ns2.frmContainer.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\obj\Debug\net461\ns3.frmAutoFunction.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\obj\Debug\net461\ns3.frmLoginUser.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\obj\Debug\net461\ns4.frmVeriPhoneNoveri.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\obj\Debug\net461\ns5.Class74.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\obj\Debug\net461\ns5.frmAddMailReg.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\obj\Debug\net461\ns5.frmLoading.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\obj\Debug\net461\ns6.frmDongBoDanhba.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\obj\Debug\net461\ns6.frmVeriMailNoveri.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\obj\Debug\net461\ns7.frmShopee.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\obj\Debug\net461\Properties.Resources.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\obj\Debug\net461\ToolRegFB.banggia.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\obj\Debug\net461\ToolRegFB.banking.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\obj\Debug\net461\ToolRegFB.CheckKey.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\obj\Debug\net461\ToolRegFB.frmMain.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\obj\Debug\net461\ToolRegFB.frmViewLD.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\obj\Debug\net461\ToolRegFB.csproj.GenerateResource.cache
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\obj\Debug\net461\ToolRegFB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\obj\Debug\net461\ToolRegFB.csproj.CoreCompileInputs.cache
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\obj\Debug\net461\ToolRegFB.exe
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\obj\Debug\net461\ToolRegFB.pdb
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit11\obj\Debug\net461\ToolRegFB.csproj.AssemblyReference.cache
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\bin\Debug\net461\ToolRegFB.exe.config
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\bin\Debug\net461\ToolRegFB.exe
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\bin\Debug\net461\ToolRegFB.pdb
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\obj\Debug\net461\ns0.frmNapxu.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\obj\Debug\net461\ns0.frmUpdateContent.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\obj\Debug\net461\ns2.frmContainer.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\obj\Debug\net461\ns3.frmAutoFunction.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\obj\Debug\net461\ns3.frmLoginUser.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\obj\Debug\net461\ns4.frmVeriPhoneNoveri.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\obj\Debug\net461\ns5.Class74.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\obj\Debug\net461\ns5.frmAddMailReg.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\obj\Debug\net461\ns5.frmLoading.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\obj\Debug\net461\ns6.frmDongBoDanhba.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\obj\Debug\net461\ns6.frmVeriMailNoveri.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\obj\Debug\net461\ns7.frmShopee.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\obj\Debug\net461\Properties.Resources.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\obj\Debug\net461\ToolRegFB.banggia.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\obj\Debug\net461\ToolRegFB.banking.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\obj\Debug\net461\ToolRegFB.CheckKey.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\obj\Debug\net461\ToolRegFB.frmMain.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\obj\Debug\net461\ToolRegFB.frmViewLD.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\obj\Debug\net461\ToolRegFB.csproj.GenerateResource.cache
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\obj\Debug\net461\ToolRegFB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\obj\Debug\net461\ToolRegFB.csproj.CoreCompileInputs.cache
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\obj\Debug\net461\ToolRegFB.exe
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\obj\Debug\net461\ToolRegFB.pdb
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\Rabbit\obj\Debug\net461\ToolRegFB.csproj.CopyComplete
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\bin\Debug\net461\ToolRegFB.exe.config
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\bin\Debug\net461\ToolRegFB.exe
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\bin\Debug\net461\ToolRegFB.pdb
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ToolRegFB.csproj.AssemblyReference.cache
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ns0.frmNapxu.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ns0.frmUpdateContent.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ns2.frmContainer.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ns3.frmAutoFunction.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ns3.frmLoginUser.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ns4.frmVeriPhoneNoveri.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ns5.Class74.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ns5.frmAddMailReg.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ns5.frmLoading.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ns6.frmDongBoDanhba.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ns6.frmVeriMailNoveri.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ns7.frmShopee.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\Properties.Resources.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ToolRegFB.banggia.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ToolRegFB.banking.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ToolRegFB.CheckKey.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ToolRegFB.frmMain.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ToolRegFB.frmViewLD.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ToolRegFB.csproj.GenerateResource.cache
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ToolRegFB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ToolRegFB.csproj.CoreCompileInputs.cache
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ToolRegFB.csproj.CopyComplete
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ToolRegFB.exe
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ToolRegFB.pdb
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\sourcerabbit\obj\Debug\net461\ToolRegFB.frmMainEng.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\bin\Debug\net461\ToolRegFB.exe.config
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\bin\Debug\net461\ToolRegFB.exe
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\bin\Debug\net461\ToolRegFB.pdb
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\obj\Debug\net461\ns0.frmNapxu.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\obj\Debug\net461\ns0.frmUpdateContent.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\obj\Debug\net461\ns2.frmContainer.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\obj\Debug\net461\ns3.frmAutoFunction.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\obj\Debug\net461\ns3.frmLoginUser.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\obj\Debug\net461\ns4.frmVeriPhoneNoveri.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\obj\Debug\net461\ns5.Class74.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\obj\Debug\net461\ns5.frmAddMailReg.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\obj\Debug\net461\ns5.frmLoading.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\obj\Debug\net461\ns6.frmDongBoDanhba.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\obj\Debug\net461\ns6.frmVeriMailNoveri.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\obj\Debug\net461\ns7.frmShopee.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\obj\Debug\net461\Properties.Resources.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\obj\Debug\net461\ToolRegFB.banggia.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\obj\Debug\net461\ToolRegFB.banking.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\obj\Debug\net461\ToolRegFB.CheckKey.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\obj\Debug\net461\ToolRegFB.frmMain.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\obj\Debug\net461\ToolRegFB.frmViewLD.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\obj\Debug\net461\ToolRegFB.csproj.GenerateResource.cache
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\obj\Debug\net461\ToolRegFB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\obj\Debug\net461\ToolRegFB.csproj.CoreCompileInputs.cache
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\obj\Debug\net461\ToolRegFB.csproj.CopyComplete
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\obj\Debug\net461\ToolRegFB.exe
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSell\obj\Debug\net461\ToolRegFB.pdb
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\ns0.frmNapxu.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\ns0.frmUpdateContent.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\ns2.frmContainer.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\ns3.frmAutoFunction.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\ns3.frmLoginUser.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\ns4.frmVeriPhoneNoveri.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\ns5.Class74.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\ns5.frmAddMailReg.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\ns5.frmLoading.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\ns6.frmDongBoDanhba.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\ns6.frmVeriMailNoveri.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\ns7.frmShopee.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\Properties.Resources.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\ToolRegFB.banggia.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\ToolRegFB.banking.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\ToolRegFB.CheckKey.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\ToolRegFB.frmMain.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\ToolRegFB.frmViewLD.resources
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\ToolRegFB.csproj.GenerateResource.cache
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\ToolRegFB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\ToolRegFB.csproj.CoreCompileInputs.cache
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\ToolRegFB.csproj.CopyComplete
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\bin\Debug\net461\HtmlAgilityPack.dll
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\bin\Debug\net461\AE.Net.Mail.dll
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\bin\Debug\net461\AE.Net.Mail.pdb
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\bin\Debug\net461\RegCloneLD.exe.config
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\bin\Debug\net461\RegCloneLD.exe
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\bin\Debug\net461\RegCloneLD.pdb
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\RegCloneLD.exe
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\RegCloneLD.pdb
+D:\Desktop\ToolCSharpAndSourceCode\ToolRegFB\Rabbit\RabbitSellModMailTM\obj\Debug\net461\ToolRegFB.csproj.AssemblyReference.cache

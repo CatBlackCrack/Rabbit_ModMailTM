@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="ns0\frmNapxu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ns0\frmUpdateContent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ns2\frmContainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ns3\frmAutoFunction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ns3\frmLoginUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ns4\frmProductOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ns4\frmUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ns4\frmVeriPhoneNoveri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ns5\frmAddMailReg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ns5\frmLoading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ns6\frmDongBoDanhba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ns6\frmVeriMailNoveri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ns7\frmShopee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ns7\frm_progress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ToolRegFB\banggia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ToolRegFB\banking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ToolRegFB\CheckKey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ToolRegFB\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ToolRegFB\frmViewLD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
